@@ -1,2 +1,3 @@
-# codingground
-Main Repository for Coding Ground
+# Bitcoin and Cryptocurrency Technologies
+by Princeton University
+https://www.coursera.org/learn/cryptocurrency/home/welcome
